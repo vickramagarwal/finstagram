@@ -1,3 +1,3 @@
 get '/' do
-  "HELLLLLOOOOOOOO"
+  "Welcome to the world"
 end
